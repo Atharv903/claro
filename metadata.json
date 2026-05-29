@@ -1,0 +1,6 @@
+{
+  "name": "Rise",
+  "description": "A premium, Apple-inspired habit tracker with elegant glassmorphic visuals, progress rings, and fluid motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
